@@ -1,0 +1,514 @@
+clear
+ls
+exit
+clear
+exit
+exit
+ping www.shangjialian.com
+ipconfig
+ipconfig
+ssh root@121.40.109.178
+ssh 120.26.120.55
+Ly@source01
+ssh root@www.51lianying.com
+exit
+ssh root@121.40.109.178
+exit
+exit
+ssh root@121.40.109.178
+d:
+cd /
+cd workspaces\
+cd luowen\
+cd blog-code\
+clear
+ls
+hexo new compile_apache2.4_php5.6_mysql5.7_centos7
+gvim
+hexo new centos7编译apache2.4+php5.6+mysql5.7
+exit
+qclear
+clear
+ssh root@192.168.1.6
+exit
+gvim
+hexo new centos7编译apache2.4+php5.6+mysql5.7
+exit
+clear
+ssh root@192.168.1.6
+ssh root@192.168.1.6
+ssh root@192.168.1.6
+ssh root@192.168.1.6
+ssh root@192.168.56.101
+exit
+clear
+ssh root@192.168.1.6
+ssh root@192.168.1.6
+ssh root@192.168.1.6
+ssh root@192.168.1.6
+ssh root@192.168.56.101
+ssh root@192.168.56.101
+exit
+exit
+ssh root@192.168.1.6
+ssh root@192.168.1.6
+ssh root@192.168.56.101
+ssh root@192.168.56.101
+exit
+ping 192.168.1.6
+d:
+cd /
+cd workspaces\
+cd luowen\
+cd blog-code\
+ls
+git commit . "centos7 mysql5.7 php5.6 apache2.4
+git commit . "centos7 mysql5.7 php5.6 apache2.4"
+clear
+git commit . -m "ok"
+hexo generate -d
+gvim
+git status
+git add . 
+git commit . -m "modify ok"
+git push
+exit
+ssh root@192.168.1.6
+ssh root@192.168.1.6
+ssh root@192.168.1.6
+ssh root@192.168.1.6
+ssh root@192.168.56.101
+f:
+cd workspaces\
+clear
+ls
+ssh root@192.168.56.101
+hexo generate -d
+exit
+d:
+cd /
+cd my
+cd services\
+cd mysql-5.7.17-winx64\
+start_mysqld.bat 
+exit
+ssh root@192.168.1.6
+ssh root@192.168.1.6
+ssh root@192.168.1.6
+ssh root@192.168.56.101
+f:
+ssh root@192.168.56.101
+hexo generate -d
+exit
+cd my
+cd services\
+cd mysql-5.7.17-winx64\
+start_mysqld.bat 
+exit
+d:
+cd /
+cd workspaces\
+cd javaproj\
+mv sexymmei\ lailaidoutu
+cd lailaidoutu\
+ls
+mvn springboot:run
+mvn spring-boot:run --debug
+mvn spring-boot:run
+git add .
+git reset HADE
+git reset HEAD
+vi .gitignore 
+git status
+git add . 
+git commit . -m "add spring security"
+git remote -v
+git remote remove origin
+git remote add origin git@github.com:vvotm/lailaidoutu.git
+git branch --set-upstream-to=origin/master master
+git push --set-upstream=origin/master master
+git push
+git push --set-upstream origin master
+clear
+exit
+cd /
+cd services\
+cd nginx\
+start
+差点..
+cd ..
+cd mysql-5.7.17-winx64\
+start_mysqld.bat 
+mysql -uroot -p
+cd /
+cd services\
+cd mysql-5.7.17-winx64\
+start_mysqld.bat 
+exit
+d:
+git status
+git add . 
+git commit . -m "新增用户表"
+git push
+clear
+差点..
+cd ..
+cd mysql-5.7.17-winx64\
+start_mysqld.bat 
+mysql -uroot -p
+d:
+cd /
+cd workspaces\
+cd javaproj\
+cd lailaidoutu\
+mvn spring-boot:run
+git status
+git add . 
+git commit . -m "security"
+git push
+mvn spring-boot:run
+git commit . -m "security"
+git init
+cat .gitignore 
+clear
+ls
+git status
+git add . 
+git commit . -m "initialize project"
+git remote -v
+git remote add origin git@github.com:superisme/doutuhtml.git
+git branch --set-upstream-to=origin/master master
+git push --set-upstream origin/master master
+git push --set-upstream=origin master
+git push
+git push --set-upstream origin master
+exit
+git branch --set-upstream-to=origin/master master
+git push --set-upstream origin/master master
+git push --set-upstream=origin master
+git push
+git push --set-upstream origin master
+cd ../..
+cd test\
+http-server .
+npm install http-server -g
+http-server.cmd -d -p 8080
+http-server.cmd -h
+http-server.cmd -i -g --cors
+cd ..
+cd luowen\
+cd blog-code\
+clear
+ls
+hexo new golang模拟接力赛
+gvim
+git status
+hexo generate -d
+exit
+git push --set-upstream origin/master master
+git push --set-upstream=origin master
+git push --set-upstream origin master
+git commit . -m 
+git commit . -m "golang接力赛"
+git push
+git status
+git add . 
+git commit . -m "golang race"
+xit
+exit
+xit
+cd 
+cd /
+ls
+exit
+git add . 
+git commit . -m "add spring security"
+git remote -v
+git remote remove origin
+git remote add origin git@github.com:vvotm/lailaidoutu.git
+git branch --set-upstream-to=origin/master master
+git push --set-upstream=origin/master master
+git push
+git push --set-upstream origin master
+clear
+exit
+cd /
+cd services\
+cd nginx\
+start
+差点..
+cd ..
+cd mysql-5.7.17-winx64\
+start_mysqld.bat 
+mysql -uroot -p
+cd /
+cd services\
+cd mysql-5.7.17-winx64\
+start_mysqld.bat 
+exit
+d:
+git status
+git add . 
+git commit . -m "新增用户表"
+git push
+clear
+差点..
+cd ..
+cd mysql-5.7.17-winx64\
+start_mysqld.bat 
+mysql -uroot -p
+d:
+cd workspaces\
+cd javaproj\
+cd lailaidoutu\
+mvn spring-boot:run
+git status
+git add . 
+git commit . -m "security"
+git push
+mvn spring-boot:run
+git commit . -m "security"
+git init
+cat .gitignore 
+clear
+ls
+git status
+git add . 
+git commit . -m "initialize project"
+git remote -v
+git remote add origin git@github.com:superisme/doutuhtml.git
+git branch --set-upstream-to=origin/master master
+git push --set-upstream origin/master master
+git push --set-upstream=origin master
+git push
+git push --set-upstream origin master
+exit
+git branch --set-upstream-to=origin/master master
+git push --set-upstream origin/master master
+git push --set-upstream=origin master
+git push
+git push --set-upstream origin master
+cd test\
+http-server .
+npm install http-server -g
+http-server.cmd -d -p 8080
+http-server.cmd -h
+http-server.cmd -i -g --cors
+cd luowen\
+cd blog-code\
+hexo new golang模拟接力赛
+git status
+hexo generate -d
+exit
+git push --set-upstream origin/master master
+git push --set-upstream=origin master
+git push --set-upstream origin master
+git commit . -m 
+git commit . -m "golang接力赛"
+git push
+git status
+git add . 
+git commit . -m "golang race"
+xit
+exit
+cd /
+revel
+revel -v
+cd workspaces\goproj\src\github.com\vvotm\testpage\gorun\
+go run test.go -race
+go build test.go 
+go run help
+go run --help
+go run
+go run .
+go run util.go 
+go run gorun\
+go env PATH
+go env GOPATH
+go env
+go run .test.g
+go run .test.go
+go run ./test.go
+go run test.go 
+gvim gorunapp.go 
+mv gorunapp.go  gorun
+cd gorun\
+go run gorunapp.go 
+mv gorunapp.go ..
+rm app.go 
+y
+rm structs* main.go  httperrors.go userprovider.go 
+gvim 
+revel -h
+revel new goweb
+revel run goweb
+cd goweb\
+gvim
+cd te
+go build main.go 
+main.exe 
+main.exe -h
+main.exe -port 8080 --runMode dev --srcPath=./
+main.exe -port 8080 --runMode dev --srcPath=../
+main.exe -port 8080 --importPath ../
+main.exe -port 8080 --importPath="./../
+main.exe -port 8080 --importPath="./../"
+main.exe -port 8080 --importPath=/
+mv main.exe ..
+main.exe .
+main.exe --importPath="./app"
+main.exe --importPath=app
+main.exe --importPath=goweb/app
+main.exe --importPath=goweb
+reven run
+revel run
+ls app\
+ca public\tm
+cd app\
+cd tmp\
+gvim main.go 
+cd ../..
+cd github.com\
+cd vvotm\
+cd test
+cd ..
+cd testpage\
+clear
+go build gorunapp.go 
+gorunapp.exe 
+mv gorunapp.exe /
+go install gorunapp.go 
+cd ../../../
+ls
+go install github.com/vvotm/testpage/gorunapp.go
+echo $GOPATH
+echo %GOPATH%
+echo %GOBIN%
+git push --set-upstream origin/master master
+git push --set-upstream=origin master
+git push --set-upstream origin master
+git commit . -m 
+git commit . -m "golang接力赛"
+git push
+git status
+git add . 
+git commit . -m "golang race"
+xit
+exit
+cd /
+cd workspaces\
+cd og
+cd goproj\
+echo %GOPATH%
+cd gi
+cd src\
+cd github.com\vvotm\
+gvim
+cd ./../..
+cd ..
+cd bin\
+clear
+ls
+gopm.exe 
+cd
+exit
+cd github.com\
+cd vvotm\
+cd test
+cd ..
+cd testpage\
+clear
+go build gorunapp.go 
+gorunapp.exe 
+mv gorunapp.exe /
+go install gorunapp.go 
+cd ../../../
+ls
+go install github.com/vvotm/testpage/gorunapp.go
+echo $GOPATH
+echo %GOPATH%
+echo %GOBIN%
+git push --set-upstream origin/master master
+git push --set-upstream=origin master
+git push --set-upstream origin master
+git commit . -m 
+git commit . -m "golang接力赛"
+git push
+git add . 
+git commit . -m "golang race"
+xit
+cd workspaces\
+cd og
+cd goproj\
+echo %GOPATH%
+cd gi
+cd src\
+cd github.com\vvotm\
+cd ./../..
+cd bin\
+gopm.exe 
+cd
+cd /
+cd vim\
+gvim
+e.
+cd vimfiles\
+git clone git@github.com:jeetsukumaran/vim-filesearch.git
+cd vim-filesearch\
+s
+rm .git -rf
+cd vimdoc-zh\
+rm ..\README.md.html 
+git status
+cd bundle\
+ls | gre ndr
+ls | grep ndr
+cd nerdtree\
+ll
+rm -rf *
+cd ..
+rm nerdtree\ -rf
+git clone git@github.com:vim-scripts/The-NERD-tree.git
+mv The-NERD-tree\ vim-nerdtree
+cd vim-nerdtree\
+ls -a
+rm -rf .git
+vim
+clear
+ls
+exit
+ls | grep ndr
+cd nerdtree\
+rm -rf *
+cd ..
+rm nerdtree\ -rf
+git clone git@github.com:vim-scripts/The-NERD-tree.git
+mv The-NERD-tree\ vim-nerdtree
+cd vim-nerdtree\
+rm -rf .git
+vim
+exit
+curl http://www.51lianying.com/login.html
+curl -sSf http://www.51lianying.com/login.html > /dev/null
+curl -sSf http://www.51lianying.com/login.htm
+curl -sSf http://www.51lianying.com/login.htl
+curl -sSf http://www.51lianying.com/login.html
+curl -is http://www.51lianying.com/login.html
+curl -is http://www.51lianying.com/login.html | head -n 0
+curl -is http://www.51lianying.com/login.html | head -n 1
+curl -is http://www.51lianying.com/login.html | head -n 1 | awk '{print $1}'
+curl -is http://www.51lianying.com/login.html | head -n 1 | awk '{print $2}' | head -n 1
+curl -is http://www.51lianying.com/login.html | head -n 1 | awk '{print $2}'
+curl -is http://www.51lianying.com/login.html | sed '0,1/p'
+curl -is http://www.51lianying.com/login.html | sed '1p'
+curl -is http://www.51lianying.com/login.html | sed -n '1p'
+curl -is http://www.51lianying.com/login.html | sed -n '1p' | awk '{print $2}'
+zsh
+ll
+ls -a
+clear
+ls
+bash
+ls
+exit
+xit
